@@ -11,7 +11,7 @@ const monsters = {
             y: 270
         },
         image: {
-            src: './img/pikachu.png'
+            src: './img/Pikachu.png'
         },
         frames: {
             max: 1,
@@ -27,7 +27,7 @@ const monsters = {
             y: -10
         },
         image: {
-            src: './img/mrayqaza.png'
+            src: './img/Mrayqaza.png'
         },
         frames: {
             max: 1,
